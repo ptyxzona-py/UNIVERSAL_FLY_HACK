@@ -8,5 +8,7 @@ About:
 Universal script for hacks in roblox!
 
 '''
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ptyxzona-py/UNIVERSAL_FLY_HACK/refs/heads/main/univer.py"))()
+
 '''
